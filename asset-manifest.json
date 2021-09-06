@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/NewRobots/static/css/main.8ab732da.chunk.css",
+    "main.js": "/NewRobots/static/js/main.1bf668d7.chunk.js",
+    "main.js.map": "/NewRobots/static/js/main.1bf668d7.chunk.js.map",
+    "runtime-main.js": "/NewRobots/static/js/runtime-main.10af9e54.js",
+    "runtime-main.js.map": "/NewRobots/static/js/runtime-main.10af9e54.js.map",
+    "static/js/2.b6907c1b.chunk.js": "/NewRobots/static/js/2.b6907c1b.chunk.js",
+    "static/js/2.b6907c1b.chunk.js.map": "/NewRobots/static/js/2.b6907c1b.chunk.js.map",
+    "static/js/3.2f819564.chunk.js": "/NewRobots/static/js/3.2f819564.chunk.js",
+    "static/js/3.2f819564.chunk.js.map": "/NewRobots/static/js/3.2f819564.chunk.js.map",
+    "index.html": "/NewRobots/index.html",
+    "static/css/main.8ab732da.chunk.css.map": "/NewRobots/static/css/main.8ab732da.chunk.css.map",
+    "static/js/2.b6907c1b.chunk.js.LICENSE.txt": "/NewRobots/static/js/2.b6907c1b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.10af9e54.js",
+    "static/js/2.b6907c1b.chunk.js",
+    "static/css/main.8ab732da.chunk.css",
+    "static/js/main.1bf668d7.chunk.js"
+  ]
+}

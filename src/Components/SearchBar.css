@@ -1,0 +1,9 @@
+.searchContainer{
+	padding: 10px;
+	text-align: center;
+}
+input{
+	padding: 5px;
+	border: solid 1px #91E4D9;
+	background-color: #DCF6F2;
+}
